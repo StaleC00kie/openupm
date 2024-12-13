@@ -1,0 +1,16 @@
+name: com.rookgames.extevents
+displayName: ExtEvents
+description: UnityEvents, but better.
+repoUrl: https://github.com/RookGames/ExtEvents
+parentRepoUrl: https://github.com/SolidAlloy/ExtEvents
+licenseSpdxId: ''
+licenseName: MIT License modified with Commons Clause Restriction
+image: ''
+topics:
+  - editor-enhancement
+hunter: StaleC00kie
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1734132841084
